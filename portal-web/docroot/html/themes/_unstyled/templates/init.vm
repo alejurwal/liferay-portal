@@ -1,3 +1,4 @@
+## TEST ##
 ## ---------- Common variables ---------- ##
 
 #set ($theme_display = $themeDisplay)
